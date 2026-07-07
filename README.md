@@ -2,8 +2,6 @@
 
 ### Senior iOS Engineer · UIKit · Swift · Objective-C · Native App Platforms
 
-I build the native layer behind large-scale app generation platforms: the systems that turn configuration and content into real, performant, maintainable iOS apps.
-
 ---
 
 ## About me
