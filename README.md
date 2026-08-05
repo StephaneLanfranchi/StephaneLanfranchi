@@ -8,6 +8,13 @@ I build the native iOS engine behind GoodBarber's app-generation platform — UI
 
 ## Finely
 
+<p align="left">
+  <img src="https://lanfranchistephane.dev/projects/finely/home-current-month.png" width="215" alt="Finely — current month overview" />
+  <img src="https://lanfranchistephane.dev/projects/finely/finely-analysis.png" width="215" alt="Finely — on-device analysis" />
+  <img src="https://lanfranchistephane.dev/projects/finely/statistics-year.png" width="215" alt="Finely — yearly statistics" />
+  <img src="https://lanfranchistephane.dev/projects/finely/new-transaction.png" width="215" alt="Finely — new transaction" />
+</p>
+
 A private native personal-finance product: product direction, financial domain rules, native interaction, persistence, privacy boundaries, and monetization, all mine.
 
 Built on UIKit, SwiftData, StoreKit 2, App Intents, WidgetKit, and on-device Foundation Models — where the model classifies intent and app-owned engines calculate every figure.
