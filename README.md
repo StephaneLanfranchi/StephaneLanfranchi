@@ -2,6 +2,10 @@
 
 ### Senior iOS Engineer · UIKit · Swift · Objective-C · Native App Platforms
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-lanfranchistephane.dev-1A1A1A?style=for-the-badge&logo=safari&logoColor=white)](https://lanfranchistephane.dev)
+
+**Portfolio and engineering case studies:** [lanfranchistephane.dev](https://lanfranchistephane.dev)
+
 ---
 
 ## About me
@@ -9,6 +13,18 @@
 I'm a senior iOS engineer focused on foundational native work: reusable UI architecture, shared component libraries, server-driven interfaces, and long-lived codebases where Swift and Objective-C need to work together cleanly.
 
 I enjoy working close to the platform, solving problems around maintainability, performance, compatibility, and architecture at scale.
+
+---
+
+## Finely · independent iOS product
+
+Alongside platform work, I build **Finely**, a private native personal-finance product I own end to end — product direction, financial domain rules, native interaction, persistence, privacy boundaries, and monetization.
+
+It runs on UIKit, SwiftData, StoreKit 2, App Intents, WidgetKit, and on-device Foundation Models, where the model classifies intent and app-owned engines calculate every figure.
+
+Finely is in active development, not a shipped market outcome.
+
+→ [Product breakdown and architecture](https://lanfranchistephane.dev/projects/finely/)
 
 ---
 
@@ -48,3 +64,4 @@ let focus = [
     "Internal developer tooling",
     "Long-term maintainability"
 ]
+```
